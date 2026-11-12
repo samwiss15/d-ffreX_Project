@@ -1,1 +1,1 @@
-d-ffreX is a free GUI for crystallographers, material scientists, students or anyone who is interested on indexing EDP & FFT and comparing with XRD data.
+d-ffreX is a free GUI application designed for crystallographers, materials scientists, and students interested in indexing EDPs or FFTs and comparing the results with reference data from XRD databases. A user manual is currently available in Spanish; an English version is in development.
