@@ -1,0 +1,1 @@
+d-ffreX is a free GUI for crystallographers, material scientists, students or anyone who is interested on indexing EDP & FFT and comparing with XRD data.
