@@ -1,0 +1,27 @@
+
+cff-version: 1.2.0
+message: "If you use d-ffreX in your research, please cite it using the following information."
+type: software
+title: "d-ffreX"
+authors:
+  - given-names: "Samanta"
+    family-names: "Pérez Arévalo"
+  - given-names: "Jesús"
+    family-names: "Delgado Aguillón"
+  - given-names: "José"
+    family-names: "Reyes Gasga"
+  - given-names: "Eric"
+    family-names: "Valdez Valenzuela"
+abstract: >
+  d-ffreX is a graphical user interface designed for crystallographers, microscopists,
+  materials scientists, and students to facilitate the indexing and
+  analysis of electron diffraction patterns (EDP) and fast Fourier
+  transforms (FFT), and their comparison with X-ray diffraction (XRD)
+  reference cards. The program considers kinematical electron diffraction.
+keywords:
+  - Electron diffraction
+  - Transmission electron microscopy
+  - Crystallography
+  - X-ray diffraction
+  - Materials characterization
+version: "1.0.0"
