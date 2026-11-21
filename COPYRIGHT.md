@@ -22,7 +22,7 @@ All intellectual property rights associated with d-ffreX remain with the copyrig
 
 Downloading or using the software does not transfer ownership or any intellectual property rights to the user.
 
-The use, reproduction, and redistribution of d-ffreX are subject to the terms and conditions specified in the [https://github.com/samwiss15/d-ffreX_Project/blob/main/LICENSE.md](LICENSE) file.
+The use, reproduction, and redistribution of d-ffreX are subject to the terms and conditions specified in the [LICENSE](LICENSE) file.
 
 For permissions beyond those granted in the software license, please contact the copyright holder through the official GitHub repository.
 
@@ -30,4 +30,4 @@ For permissions beyond those granted in the software license, please contact the
 
 **Official repository:** https://github.com/samwiss15/d-ffreX_Project
 
-**License:** See [https://github.com/samwiss15/d-ffreX_Project/blob/main/LICENSE.md](LICENSE) for the terms and conditions governing the use of d-ffreX.
+**License:** See [LICENSE](LICENSE) for the terms and conditions governing the use of d-ffreX.
